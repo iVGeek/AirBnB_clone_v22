@@ -154,3 +154,14 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 <!-- ## Testing -->
 
 **NOTE:** Before you push any commit, please run the script `./test.bash` to ensure that no tests are failing and your code complies with this project's styling standard.
+
+### Environment
+* Language: Python, HTML, CSS, Shell & Puppet.
+* OS: Ubuntu 20.04 LTS
+
+## CODESMITHES 🦊&🌻
+
+[GitHub](https://github.com/iVGeek)|iVGeek
+[GitHub](https://github.com)| Karlie Moyo
+
+![image](https://user-images.githubusercontent.com/97067717/207470061-0628eb0a-79e9-4cca-ad23-79c819aa4387.png)
