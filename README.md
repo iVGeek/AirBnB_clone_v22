@@ -164,4 +164,4 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 [GitHub](https://github.com/iVGeek)|iVGeek
 [GitHub](https://github.com)| Karlie Moyo
 
-![image](https://user-images.githubusercontent.com/97067717/207470061-0628eb0a-79e9-4cca-ad23-79c819aa4387.png)
+![image](https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step2.png)
