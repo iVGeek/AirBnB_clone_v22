@@ -14,7 +14,6 @@ def index():
     '''The home page.'''
     return 'Hello HBNB!'
 
-
 @app.route('/hbnb')
 def hbnb():
     '''The hbnb page.'''
@@ -36,3 +35,5 @@ def python_page(text):
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port='5000')
+
+    
