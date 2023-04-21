@@ -64,3 +64,4 @@ INSERT INTO amenities(id, created_at, updated_at, name) VALUES
   ('821a55f4-7d82-47d9-b54c-a76916479562','2017-03-25 19:44:42','2017-03-25 19:44:42','Hot tub'),
   ('821a55f4-7d82-47d9-b54c-a76916479563','2017-03-25 19:44:42','2017-03-25 19:44:42','Smoking allowed')
 ;
+
