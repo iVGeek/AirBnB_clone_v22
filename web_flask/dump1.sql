@@ -3732,3 +3732,4 @@ INSERT INTO `reviews` VALUES
   ('ffaab65f-0491-4bbf-9b58-faad830acc73','2017-03-25 02:17:07','2017-03-25 02:17:07','3290a4ef-4241-4fa5-843e-87926c74e384','df668e22-e344-4c89-a050-e5ad211cbaa6','This was a superb catch- great value for the fee. It was the perfect place to relax. The neighborhood is beautiful and calm, and it is very easy to get around Tempe from this spot. Carlos has his hospitality game together - you would think he took a course.'),
   ('ffec053e-cc6a-4802-8bbf-1b5d078a0c92','2017-03-25 02:17:07','2017-03-25 02:17:07','279b355e-ff9a-4b85-8114-6db7ad2a4cd2','70b18dcc-08ef-4040-91cf-4075973d320a','The location is great with mass transportation available within a short walking distance. The room is private and very cozy. Ryan was alway available for all the restaurant questions I had! ')
 ;
+
