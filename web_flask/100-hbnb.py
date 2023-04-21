@@ -8,7 +8,6 @@ from models.amenity import Amenity
 from models.place import Place
 from models.state import State
 
-
 app = Flask(__name__)
 '''The Flask application instance.'''
 app.url_map.strict_slashes = False
@@ -43,3 +42,5 @@ def flask_teardown(exc):
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port='5000')
+
+    
